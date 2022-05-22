@@ -1,0 +1,21 @@
+body {
+    background-color: paleturquoise;
+    text-align: center;
+}
+
+header {
+    background-color: palegoldenrod;
+    font-size: 18pt;
+    height: 72pt;
+    line-height: 72pt;
+}
+
+main {
+    background-color: palegreen;
+    font-size: 18pt;
+    height: 70vh;
+    border-top: solid;
+    border-color: palevioletred;
+    border-width: 3pt;
+    padding: 2pt;
+}
